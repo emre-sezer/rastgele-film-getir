@@ -1,0 +1,609 @@
+[
+  {
+    "id": 1,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+    "Title": "Alita ",
+    "Summary": " Alita (Rosa Salazar), kim olduğunu veya nereden geldiğini bilmediği bir halde, tanımadığı bir gelecekte uyanır. Şefkatli bir doktor olan Ido (Christoph Waltz) onu yanına alır ve cyborg görüntüsünün altında olağanüstü bir geçmişe sahip genç bir kadının kalbi ve ruhu olduğunu fark eder. Alita, yeni hayatına alışmaya çalışırken, Doktor Ido da onu gizemli geçmişinden korumaya çalışır. Yeni arkadaşı Hugo (Keean Johnson) ise Alita’nın geçmişini hatırlaması için, anılarını tetiklemesine yardımcı olmak ister. Bu sırada şehri yöneten tehlikeli ve yozlaşmış güçler Alita’nın peşine düşer. Eşi benzeri görülmemiş dövüş yeteneklerine sahip olduğunu fark eden Alita, geçmişine dair bir ipucu elde eder. Tehlikeli insanlarla karşı karşıya olan Alita, arkadaşlarının, ailesinin ve dünyasının kurtarılmasında kilit rol oynayacaktır.",
+    "IMDB": "7.3",
+    "Vision": "2019",
+    "Type": ["Aksiyon", "Bilim-Kurgu"],
+    "Time": "2s 2dk",
+    "Director": "Robert Rodriguez",
+    "Actors": ["Rosa Salazar", "Christoph Waltz", "Jennifer Connelly"],
+    "Production": ["ABD", "Arjantin", "Kanada"],
+    "Fragman": "http://player.beyazperde.com/19549992.html"
+  },
+
+  {
+    "id": 2,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg",
+    "Title": "Avatar",
+    "Summary": "Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende misyonunun başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Jake, kendilerine özgü bir lisanları, dünya görüşleri ve yaşam biçimleri olan halkın arasına karıştığında doğa ile de bütünleşir. Askeri bir şirket, söz konusu yeri ve oradaki kaynakları mercek altına almak üzere Avatar adında bir program meydana getirmiştir. Bu program insanları kısmen insan kısmen de Na’vi haline büründürerek misyon amaçlı Pandora’ya göndermektedir. Bu sisteme gönüllü dahil olan Botanist Dr Grace Augustine ve Jake Sully için başka bir yaşam var olacaktır. Sully, Pandora’ya geçtiği anda felçli bedeni değişime uğrayarak işlevsel hale gelmektedir. Bu sırada Na’vi halkından Prenses Neytiri ile karşı karşıya gelen Jake, ansızın bir farkındalık yaşar ve bir araştırma misyonu ile gönderildiği bu gezegeni, kendi dünyalısından korumaya karar verir. Üç boyutlu, son teknoloji ürünü ve ciddi anlamda yüksek bütçeli filmin yönetmeni James Cameron’e, Titanik, Yaratıklar ve Terminator filmlerinden hayranız.",
+    "IMDB": "7.8",
+    "Vision": "2009",
+    "Type": ["Bilim-Kurgu", "Macera"],
+    "Time": "2s 42dk",
+    "Director": "James Cameron",
+    "Actors": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+    "Production": ["ABD"],
+    "Fragman": "http://player.beyazperde.com/18915466.html"
+  },
+
+  {
+    "id": 3,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KCVkau1HEl7ZzfPsKAPM0sMiKc.jpg",
+    "Title": "Esaretin Bedeli",
+    "Summary": "Esaretin Bedeli, Andy ve Red isimli iki mahkumun parmaklıklar ardında kurdukları dünyanın hikayesini anlatıyor. Andy Dufresne, genç ve başarılı bir bankerdir. Karısını ve karısının sevgilisini öldürmek suçundan yargılanır ve ömür boyu hapis cezası alır. Shawsank Hapishanesi'nde dayak, işkence, tecavüz, her türlü durum yaşanmaktadır fakat Andy gene de hayata bağlı ve iyimserdir. Bu tutumu etrafındakileri de etkiler. Andy umutlu bakış açısıyla çevresindeki tüm mahkumları, parmaklıklar arkasında bile özgür bir yaşam olabileceğine inandırır. Andy'nin bu çabalarına ortak olacak bir arkadaşı da olacaktır: Red.Bir Stephen King uyarlaması olan filmde Morgan Freeman ve Tim Robbins başrolde. Film, 1995'te, aralarında en iyi film adaylığı da olmak üzere tam 7 dalda Oscar'a aday gösterildi.",
+    "IMDB": "9.3",
+    "Vision": "1994",
+    "Type": ["Dram"],
+    "Time": "2s 20dk",
+    "Director": "Frank Darabont",
+    "Actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunto"],
+    "Production": ["ABD"],
+    "Fragman": "http://player.beyazperde.com/19512087.html"
+  },
+
+  {
+    "id": 4,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg",
+    "Title": "Lion",
+    "Summary": "5 yaşındaki Hintli bir çocuk ağabeyinin geri dönmesini beklerken bir tren vagonunda uyuyakalır. O uyurken trenin yola çıkması sonucu küçük çocuk uyandığında kendini evinden kilometrelerce uzakta bulur. Artık kayıptır ve eve nasıl döneceğine dair bir fikri yoktur. Kendini Calcutta'da bulan küçük çocuk büyük mücadelelerden sonra Avustralyalı bir çift tarafından evlat edinilir ve sevgiyle büyür. Ancak ailesini bulma isteği giderek bir saplantıya dönüşür. Elinde hiçbir şey olmadan ilerlemeye çalışan genç adamın içindeki çaresizlik zamanla hayatını da etkilemeye başlar...<p> Filmi başrollerinde Dev Patel, Rooney Mara, Nicole Kidman ve David Wenham gibi güçlü isimler yer alırken, filmin yönetmenliğini ise Garth Davis üstleniyor. </p>",
+    "IMDB": "8.0",
+    "Vision": "2016",
+    "Type": ["Dram", "Biyografik"],
+    "Time": "1s 58dk",
+    "Director": "Garth Davis",
+    "Actors": ["Dev Patel", "Rooney Mara", "Nicole Kidman"],
+    "Production": ["ABD", "Avustralya", "İngiltere"],
+    "Fragman": "https://www.youtube.com/embed/MVhy6dZx7Mg"
+  },
+
+  {
+    "id": 5,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fDtXi6gVw8WUMWGT9XFz7YwkuE.jpg",
+    "Title": "Upgrade",
+    "Summary": "Eşiyle birlikteyken acımasızca saldırıya uğrayan Grey Trace, karısını saldırıda kaybetmenin yanı sıra belden aşağı da felç olmuştur. Günün birinde bir milyarder muciten bedenini geliştirecek deneysel bir tedavi teklifi alır. Tedavi için Trace'in bedenine STEM olarak adlandırılan yapay zeka implantı yerleştirilir. Tedavi ile insanüstü yetenekler kazanan Trace, karısını öldüren ve kendi hayatını mahveden kişilerden intikam almak için yola koyulur...",
+    "IMDB": "7.5",
+    "Vision": "2018",
+    "Type": ["Aksiyon", "Gerilim", "Bilim-Kurgu"],
+    "Time": "1s 40dk",
+    "Director": "Leigh Whannell",
+    "Actors": ["Logan Marshall-Green", "Betty Gabriel", "Harrison Gilbertson"],
+    "Production": ["Avustralya"],
+    "Fragman": "http://player.beyazperde.com/19550072.html"
+  },
+
+  {
+    "id": 6,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/91bUbxcOvTinqrPLrnGHlWYVy9J.jpg",
+    "Title": "Leon : Sevginin Gücü",
+    "Summary": "Sevginin Gücü, masum bir kız ve bir katilin hikayesini anlatıyor. Onların birbirlerinden başka kaybedecek hiçbir şeyleri yok. Erkek duygusuzca öldürüyor. Zayıf noktasını sadece 12 yaşındaki bir kız biliyor.12 yaşında New York’ta yaşayan Mathilda, üvey ailesinin yanında sevimsiz bir yaşamı paylaşmaktadır. Babası, iki taraflı oynayan bozulmuş polis için uyuşturucu saklamaktadır. Mathilda’yı kaçıp gitmekten tek alıkoyan küçük erkek kardeşidir. Bir gün, tüm ailesinin katledeildiği zaman alışverişte olan Mathilda şans eseri hayatta kalır ve en çok ihtiyacı olduğu sırada Léon’un dairesine saklanarak kendini kurtarır.",
+    "IMDB": "8.5",
+    "Vision": "1994",
+    "Type": ["Polisiye", "Dram"],
+    "Time": "1s 43dk",
+    "Director": "Luc Besson",
+    "Actors": ["Jean Reno", "Gary Oldman", "Natalie Portman"],
+    "Production": ["Fransa"],
+    "Fragman": "https://www.youtube.com/embed/u8Y5Mx8tXpE"
+  },
+
+  {
+    "id": 7,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/clolk7rB5lAjs41SD0Vt6IXYLMm.jpg",
+    "Title": "Forrest Gump",
+    "Summary": "Forrest Gump, düşük I.Q. sahibi genç bir adamdır. Jenny ile tanıştığında ona aşık olur. Gump aralarında Elvis Presley, Kennedy, Nixon’ın da olduğu tarihsel kişilerle kaza eseri tanışır ve 50’lerden 70’lerin sonuna kadar gelen bir süre zarfında olaylar gelişir. Gump tamamen tesadüf olarak Vietnam savaşına ve Amerikan yakın tarihinin önemli olaylarına şahitlik eder ve hatta rol alır. Ancak bilmeden yaptıklarının ne kadar önemli sonuçları olduğundan da haberi yoktur.",
+    "IMDB": "8.8",
+    "Vision": "1994",
+    "Type": ["Romantik", "Dram", "Komedi"],
+    "Time": "2s 20dk",
+    "Director": "Robert Zemeckis",
+    "Actors": ["Tom Hanks", "Gary Sinise", "Robin Wright"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/l7IqFZ1CUjM"
+  },
+
+  {
+    "id": 8,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmbIAd4NMMQPqZuhYRSnTPQ56vB.jpg",
+    "Title": "Başlat: Ready Player One",
+    "Summary": "Ailesini küçük yaşta kaybeden Wade Watts (Tye Sheridan), gerçek dünyanın sıkıntılarından kaçmak için zamanını The Oasis adlı bir oyun evreninde geçirir. Oyunun milyoner kurucusu oyun evreninin içine bir anahtar saklamıştır ve öldüğünde tüm servetini ve oyunun kontrolünü bu anahtarı bulana vaad etmektedir. Wade de bu macera dolu hazine avının peşine düşmüştür. Bir süre sonra her şey bir oyun olmaktan çıkıp acımasız bir rekabete dönüşür. Zira şirket hissedarları ve paragöz oyuncular hazineye herkesten önce ulaşabilmek ve diğer yarışmacıları saf dışı bırakabilmek için her şeyi yapmaya hazırdır.",
+    "IMDB": "7.5",
+    "Vision": "2018",
+    "Type": ["Macera", "Bilim-Kurgu"],
+    "Time": "2s 20dk",
+    "Director": "Steven Spielberg",
+    "Actors": ["Tye Sheridan", "Olivia Cooke", "Ben Mendelsohn"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/F8jUr_nIkyE"
+  },
+
+  {
+    "id": 9,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzCpGwWHUwby14KPJJWla9ybY81.jpg",
+    "Title": "WALL·E",
+    "Summary": "Harap edilmiş, kirli ve kuru bir dünyadayız. Yüz yıllar önce bütün insanlar, çevrenin kesintisiz suistimali yüzünden yaşanamaz hale gelen dünyayı BnL isimli bir mega şirketin inşa ettiği uzay gemileri ile terk etmiştir.Bu dünyayı temizlemekle yükümlü robotların halen çalışan tek üyesi Wall-E’nin (Waste Allocation Load Lifter – Earth class) çöp toplamak ve düzenlemekle dolu monoton iş gününü izliyoruz. Geçen 700 sene içinde kendine ait bir kişilik üreten Wall-E, günün sıkıcılığını ilginç bulduğu eşyaları toplayarak ve tek arkadaşı hamam böceği ile oynayarak dindirir. Wall-E, işten dönünce akşamlarını Hello Dolly’nin VHS kopyasını izleyerek ve umutlu gözlerle (veya dürbünlerle) uzaya bakarak geçirmektedir. Amacı, bir gün başka bir robota aşık olmak ve filmde gördüğü el tutuşma sahnesini o robotta denemektir...",
+    "IMDB": "8.4",
+    "Vision": "2008",
+    "Type": ["Animasyon", "Macera", "Aile"],
+    "Time": "1s 38dk",
+    "Director": "Andrew Stanton",
+    "Actors": ["Ben Burtt", "Elissa Knight", "Jeff Garlin"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/Eb4sMcyzCeg"
+  },
+
+  {
+    "id": 10,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg",
+    "Title": "Bay Hiçkimse",
+    "Summary": "Indiewire, Belçikalı yönetmenin bugüne kadarki en yüksek maliyetli bu filmini 'hem bilimkurgu, hem romans hem de Lynchvari bir zihin oyunu' diye nitelendiriyor. Başlıkta bahsi geçen Bay Hiçkimse, 2092 yılında dünyada kalmış son ölümlü olan 117 yaşındaki Némo adlı bir adam. Ölüm döşeğindeki Némo genç bir çocukken bir peronda durduğunu hatırlar. Tren kalkmak üzeredir. Annesiyle birlikte mi gitmeli, yoksa babasıyla mı kalmalıdır? Bu karar, sonsuz sayıda olasılığı doğuracaktır... Ve pek çok gezegen, iki ölüm ve sevilecek kadınlar... <p>Jaco van Dormael’in üçüncü uzun metrajlı filmi, kendi sözleriyle 'herkesin karşılaşabileceği sonsuz olasılıklar hakkında gerçekten de yüksek bütçeli deneysel bir film. </p>",
+    "IMDB": "7.8",
+    "Vision": "2009",
+    "Type": ["Bilim-Kurgu", "Dram", "Fantastik"],
+    "Time": "2s 21dk",
+    "Director": "Jaco van Dormael",
+    "Actors": ["Jared Leto", "Sarah Polley", "Diane Kruger"],
+    "Production": ["Fransa", "İngiltere", "Belçika", "Kanada"],
+    "Fragman": "https://www.youtube.com/embed/ePR-SZGmyHA"
+  },
+
+  {
+    "id": 11,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv30R1uDDKTLWDlNc3qi6MRdRf0.jpg",
+    "Title": "The Platform",
+    "Summary": "The Platform, dikey şekilde konumlandırılmış bir hapishanede geçiyor. Her hücrede iki mahkumun kaldığı hapishanede, yemek günde sadece bir kere üst kattan aşağıya doğru gönderilmektedir. Üst kattaki mahkumlar yiyeceğe ulaşmak için çabalarken, alt katta bulunan mahkumlar, her gün biraz daha vahşileşerek açlıkla baş etmeye çalışır. Bir gün gözünü hapishanenin 33. katında açan Goreng, hapishanenin kurallarını iyi bilen Trimagasi ile birlikte yiyeceğe ulaşabilmek için zorlu bir mücadeleye girişir.",
+    "IMDB": "7.0",
+    "Vision": "2019",
+    "Type": ["Bilim-Kurgu", "Korku"],
+    "Time": "1s 34dk",
+    "Director": "Galder Gaztelu-Urrutia",
+    "Actors": ["Ivan Massagué", "Zorion Eguileor", "Antonia San Juan"],
+    "Production": ["İspanya"],
+    "Fragman": "https://www.youtube.com/embed/2HP2VyKaViM"
+  },
+
+  {
+    "id": 12,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juzxXMIC121JogWjaL51YrSajLg.jpg",
+    "Title": "John Carter",
+    "Summary": "Bilinmeyen bir şekilde gözünü Mars gezegeninde açan John Carter, burada kendisini gezegen sakinlerinin arasında gitgide büyüyen bir savaşın ortasında bulur. Tarafların arasında Tars Tarkas ve çekici prenses Dejah Thoris de vardır. Carter yok olmanın eşiğindeki bu gezegende Barsoom’ın ve halkının kurtuluşunun kendi ellerinde olduğunu anlayacaktır...",
+    "IMDB": "6.6",
+    "Vision": "2012",
+    "Type": ["Bilim-Kurgu", "Macera", "Aksiyon"],
+    "Time": "2s 20dk",
+    "Director": "Andrew Stanton",
+    "Actors": ["Taylor Kitsch", "Lynn Collins", "Samantha Morton"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/XTpOmKTSkAk"
+  },
+
+  {
+    "id": 13,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg",
+    "Title": "Canavar Sorunları",
+    "Summary": "Monster Problems, hayallerindeki kız ile birlikte olabilmek için canavarlarla dolu kıyamet sonrası bir dünyada hayatta kalmaya çalışan bir adamın hikayesini anlatıyor. Filmin yönetmen koltuğunda Michael Matthews oturuyor.",
+    "IMDB": "6.6",
+    "Vision": "2020",
+    "Type": ["Bilim-Kurgu", "Macera", "Romantik"],
+    "Time": "1s 49dk",
+    "Director": "Michael Matthews",
+    "Actors": ["Dylan O'Brien", "Jessica Henwick", "Michael Rooker"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/v3iTbAUlXrQ"
+  },
+
+  {
+    "id": 14,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTAIqYYXDHqe8xPFV5cH4ElxCqb.jpg",
+    "Title": "Tenet",
+    "Summary": "Tenet, dünyayı büyük bir tehlikeden kurtarmak için savaşan bir kahramanın hikayesini konu ediyor. Gerçek zamanın ötesinde bir yerde uluslararası bir casusluk görevini yerine getirmeye çalışan kahraman, dünyayı kurtarabilmek için savaşmak zorunda kalır. Üçüncü Dünya Savaşı’ndan daha büyük bir tehlikeyi durdurmaya çalışan kahraman, casusun alacakaranlık dünyasında zorlu bir yolculuğa çıkar.",
+    "IMDB": "7.7",
+    "Vision": "2020",
+    "Type": ["Aksiyon", "Bilim-Kurgu"],
+    "Time": "2s 30dk",
+    "Director": "Christopher Nolan",
+    "Actors": ["John David Washington", "Kenneth Branagh", "Robert Pattinson"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/OBawdbFF7M8"
+  },
+
+  {
+    "id": 15,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg",
+    "Title": "Togo",
+    "Summary": "Togo, kasabayı etkisi altına alan salgının tedavi edilmesi için zorlu bir yolculuğa çıkan bir adam ve köpeğin hikayesini konu ediyor. Ölümcül bir salgın Alaska’nın Nome kasabasını etkisi altına almıştır. Tek tedavi imkanı 600 mil ötedeki kasabadadır. Kasabada bulunan antitoksin serumun getirilmesi gerekir ancak bu pek de kolay bir iş değildir. Kasaba halkı, serumun getirilebilmesi için köpek eğitmeni olan Leonhard Seppala’dan yardım ister. Yardım etmeyi kabul eden Leonhard Seppala, cılız görünümlü, yaşlı bir Sibirya kurdu olan Togo ile birlikte yola koyulur. Togo'yu yavru olduğu dönemden beri tanıyan Seppala'nın eşi Constance, Togo’nun her koşulda cesaret ve sadakat göstereceğinden emindir. Serumun bulunduğu kasabaya adım adım yaklaşan Seppala ve Togo, yolculuk sırasına korkunç bir fırtınayla karşı karşıya kalır. -70 dereceye varan soğukta Togo ve Seppala büyük bir yaşam mücadelesi verecektir.",
+    "IMDB": "8.0",
+    "Vision": "2019",
+    "Type": ["Macera", "Aile", "Tarihi"],
+    "Time": "1s 53dk",
+    "Director": "Ericson Core",
+    "Actors": ["Willem Dafoe", "Julianne Nicholson", "Christopher Heyerdahl"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/7eyz4Dy0d-4"
+  },
+
+  {
+    "id": 16,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQNq7qk6gJYSFN1JMCnhwgOmDxV.jpg",
+    "Title": "Kimsesiz Çocuk Remi",
+    "Summary": "Hector Malot’un ünlü romanından uyarlanan Kimsesiz Çocuk filminde, Remi’nin yaşadığı maceralar konu ediliyor. Remi, her çocuk gibi mutlu bir aileye sahip olduğunu düşünmektedir. Akşamları onu öpüp yatağına yatıran, bir derdi olup üzüldüğünde kucağına alıp onu seven bir annesi olduğunu sanmaktadır. Fakat bu çok sevdiği kadın onun gerçek annesi değil; sütannesidir. Sütannesinin kocası Jerome Barberin'de gerçek babası değildir tabi. Acımasız bir adam olan Jerome Barberin, Remi on yaşına geldiğinde onu para karşılığına bir sokak müzisyeninin yanına çıkar olarak verir. Küçük çocuk, ustası Signor Vitalis, onun sadık köpeği Capi ve yaramaz maymunu Mister Joli-Coeur ile birlikte sokak gösterileri düzenlemek için yolculuğa koyulur. Bu yolculuk sırasında Signor, Remi’nin özel bir sese sahip olduğunu keşfeder. Söylediği şarkılarla dinleyenlere huzur veren Remi, hem ustası hem de babası yerine koyduğu Signor ile çıktığı bu yolculukta, hayatının değişmesine neden olacak gerçeklerle yüzleşmek zorunda kalır.",
+    "IMDB": "7.0",
+    "Vision": "2019",
+    "Type": ["Macera", "Aile"],
+    "Time": "1s 49dk",
+    "Director": "Ericson Core",
+    "Actors": ["Daniel Auteuil", "Maleaume Paquin", "Virginie Ledoyen"],
+    "Production": ["Fransa"],
+    "Fragman": "https://www.youtube.com/embed/57JC5ntOiYA"
+  },
+
+  {
+    "id": 17,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tW1pmvwwHtVkUCA8bzyS4eQkg7V.jpg",
+    "Title": "Parazit",
+    "Summary": "Park Ailesi'yle tanışın: soyla gelen servetin klasik bir tablosu. Diğer yanda ise Kim Ailesi, sokak zekası bakımından zengin ama başka hiçbir zenginliğe sahip değil. Şans veya kader olsun, bu iki ev halkı bir şekilde bir araya gelir ve Kim ailesi altın bir fırsatın varlığını hemen sezer. Kolej çağındaki Ki-woo tarafından manipülasyon konusunda yetiştirilen Kim çocukları, öğretmen ve sanat terapisti görevleriyle kendilerini Park ailesinin arasına çabucak yerleştirir. Kim'ler “vazgeçilmez” lüks hizmetler sunarken, Parklar ise habersizce evlerindeki her şeyi Kim ailesine kaybetmektedir. Ancak kısa sürede bu düzen bir tehditle karşılaşır. Asalak bir misafir Kim ailesinin yeni keşfettikleri konforu tehdit eder hale geldiğinde, vahşi ve zorlayıcı bir üstünlük mücadelesi patlak verir. Bu mücadele Kim ve Park aileleri arasındaki kırılgan ekosistemi yıkmakla tehdit etmektedir...",
+    "IMDB": "8.6",
+    "Vision": "2019",
+    "Type": ["Gerilim"],
+    "Time": "2s 12dk",
+    "Director": "Bong Joon Ho",
+    "Actors": ["Song Kang-Ho", "Woo-sik Choi", "Park So-Dam"],
+    "Production": ["Güney Kore"],
+    "Fragman": "https://www.youtube.com/embed/Xey1oYCWbV4"
+  },
+
+  {
+    "id": 18,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnUAcUrMRGPPZUDroLeZhSjLkuu.jpg",
+    "Title": "Yapay Zeka",
+    "Summary": "Belirsiz bir gelecekte, insanoğlu, dünyanın çoğunun sular altında kaldığı bir yeryüzünde yaşamaya çalışırken, teknolojinin nimetlerinden yararlanarak hayatlarını kolaylaştırmak amacıyla 'yapay zekalı' robotlar üretirler. David madde ve mana olarak tam bir insan gibi donatılmış bir robottur. Sevmeye programlanmış olan ilk robot çocuk David, o sırada hasta olmasından dolayı tedavisi bulunana kadar çocukları dondurulmuş bir aile tafından deneme süreci olarak evlat edinilir. David, yaşadığı aile ortamında evlatlığın gerektirdiği sevgi ve bakımı kapsayarak, giderek çiftin çocukları haline gelmesine rağmen, umulmadık olaylar hayatı 'Robot David' için imkansız bir duruma sokar.",
+    "IMDB": "7.2",
+    "Vision": "2001",
+    "Type": ["Bilim-Kurgu", "Macera", "Dram"],
+    "Time": "2s 20dk",
+    "Director": "Steven Spielberg",
+    "Actors": ["Haley Joel Osment", "Jude Law", "Frances O'Connor"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/QuOuFBm0yM4"
+  },
+
+  {
+    "id": 19,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqw49pO0FndPZL5LVkq85JCNIVH.jpg",
+    "Title": "Always - Sadece Sen",
+    "Summary": "Eski boksör Chul Min, geçmişi suçlarla dolu katı yürekli yetim bir gençtir. Hapisten çıktıktan sonra kendisini değiştirmeyi kafasına koyar. Temiz kalpli kör bir kızla tanıştığında zamanla ona aşık olur. Fakat hayatını rayına oturtması için ödemesi gereken bedeller vardır. 2011 Güney Kore yapımı Always | Sadece Sen filmi duygu ve romantizm yüklü bir aşk hikayesidir. Yönetmen Il-gon Song tarafından yönetilen Always 2011 filmi aksiyon, dram ve romantizm türündedir.",
+    "IMDB": "7.8",
+    "Vision": "2011",
+    "Type": ["Romantik", "Dram", "Macera"],
+    "Time": "1s 48dk",
+    "Director": "Il-gon Song",
+    "Actors": ["Ji-seob So", "Han Hyo-joo", "Kang Shin-il"],
+    "Production": ["Güney Kore"],
+    "Fragman": "https://www.youtube.com/embed/9P-IU9YHDmE"
+  },
+
+  {
+    "id": 20,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aDS5gmgvcw7P7BfoxqtnIktHDk.jpg",
+    "Title": "Görünmeyen Misafir",
+    "Summary": "Adrian Doria varlıklı bir iş adamıdır. Bir gün kendisini kapısı kitli bir otel odasında sevgilisi Laural Vidan'ın cesedinin yanı başında bulur. Polis tarafından tutuklandıkan sonra deneyimli bir avukat olan Virginia Goodman ile tanışır. Masum olduğunu kanıtlamak için şoförü Daniel Garrido araba kazasını aydınlatmaları gerekmektedir. Aynı zamanda avukatı Felix olayların seyrini değiştirebilecek bir delil araştırmaktadır. Virginia ve Adrian vaka hakkında konuşmalarını sürdürürler ama Adrian'ın ifadesinden ikna olmayan Virginia onu hikayesinin karanlık noktalarını açığa çıkarması için zorlar. Bulmacada gerçek ve yalan kolayca yer değiştirebilmektedir.",
+    "IMDB": "8.1",
+    "Vision": "2016",
+    "Type": ["Polisiye", "Gerilim"],
+    "Time": "1s 50dk",
+    "Director": "Oriol Paulo",
+    "Actors": ["Mario Casas", "Bárbara Lennie", "Ana Wagener"],
+    "Production": ["İspanya"],
+    "Fragman": "https://www.youtube.com/embed/nuwW4ZHqq94"
+  },
+
+  {
+    "id": 21,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+    "Title": "Sil Baştan",
+    "Summary": "Joel Barish, iki yıl boyunca beraber olduğu sevgilisinden oldukça şaşırtıcı bir haber alıyor. Kadın, bir teknolojik deneye katılarak, ilişkilerini tamamen hafızasından silmiştir. Yani Barish'in kim olduğunu bile hatırlamamaktadır. Bu gelişme üzerine küplere binen adam, aynı prosedürü kendi üzerinde de gerçekleştirmek ister...Film, adamın hafızaları silinirken, yaşanılan ilişkiyi gözler önüne serer. Adam da bir kez daha oldukça iyi başlayan ve sonradan tadı kaçan ilişkiyi izler. Fakat zaman geçtikçe ve sıra yaşanılan güzel şeylere gelince, üzerindeki müdaheleyi durdurmak ister. Pişman olmuştur!",
+    "IMDB": "8.3",
+    "Vision": "2004",
+    "Type": ["Bilim-Kurgu", "Dram", "Romantik"],
+    "Time": "1s 48dk",
+    "Director": "Michel Gondry",
+    "Actors": ["Jim Carrey", "Kate Winslet", "Kirsten Dunst"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/yhs-CfJq4g4"
+  },
+
+  
+  {
+    "id": 22,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6l9rghSHORkWLurUGJhaKAiyjY.jpg",
+    "Title": "Umudunu Kaybetme",
+    "Summary": "The Pursuit of Happyness/Umudunu Kaybetme’de, Chris Gardner iki yakasını bir araya getirmeye çalışan bir aile babasıdır. Ailesini ayakta tutmak için cesurca çabalamasına rağmen, beş yaşındaki oğlu Christopher’ın annesi maddi zorlukların yarattığı sürekli baskı altında direncini kaybetmek üzeredir. Artık dayanamayacağını anlayınca, istemeye istemeye evi terk eder...Artık bekar bir baba olan Chris, yılmadan, bildiği tüm satış becerilerini kullanarak daha iyi kazandıran bir işin peşine düşer. Prestijli bir borsa şirketinde stajyerlik bulur ve ücret almasa da programın sonunda iş ve parlak bir gelecek elde edeceğini umarak kabul eder. Parasal güvencesi olmayan Chris ve oğlu, kısa süre sonra oturdukları daireden çıkartılırlar ve düşkünler evi, otobüs durağı, tuvalet; geceyi geçirmek için bulabildikleri her yerde kalırlar.",
+    "IMDB": "8.0",
+    "Vision": "2006",
+    "Type": ["Biyografik", "Dram"],
+    "Time": "1s 57dk",
+    "Director": "Gabriele Muccino",
+    "Actors": ["Will Smith", "Thandie Newton", "Jaden Smith"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/26r_jFDGxOU"
+  },
+
+  {
+    "id": 23,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DzePKMbLMIM636S6syCy3cLPqj.jpg",
+    "Title": "Piyanist",
+    "Summary": "Wladyslaw Szpilman, Polonyalı başarılı bir piyanisttir. İkinci Dünya Savaşı'nda Almanların Polonya'yı işgal etmesiyle hayatı kâbusa döner. Musevi olduğu halde şans eseri toplama kamplarına gitmekten kurtulur ve Varşova'nın gettolarında yaşamaya başlar. Acı ve sefalet dolu yaşamı, bir gün bir Alman subayının ona yardıma gelmesi ve onu oradan kurtarmasıyla değişir.Roman Polanski'den 2002'de Cannes'de büyük ödül kazanmış bir başyapıt.",
+    "IMDB": "8.5",
+    "Vision": "2002",
+    "Type": ["Dram", "Tarihi"],
+    "Time": "2s 28dk",
+    "Director": "Roman Polanski",
+    "Actors": ["Adrien Brody", "Thomas Kretschmann", "Emilia Fox"],
+    "Production": ["Fransa", "İngiltere", "Almanya", "Polonya"],
+    "Fragman": "https://www.youtube.com/embed/zTacCCBa52M"
+  },
+
+  {
+    "id": 24,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/faMykikfpjMJzPIrANA37hJxpsZ.jpg",
+    "Title": "Ben Kimim?",
+    "Summary": "Genç bir bilgisayar dehası olan Benjamin, sadece Almanya’da değil dünya çapında tanınan biri olmak istemektedir. Yer altı bir hacker grubu, Benjamin’i aralarına katılmaya çağırınca, Benjamin bu tehlikeli teklifi kabul eder ancak bu tehlikeli oyunlarda başına geleceklerden habersizdir. Yönetmenliğini İsveç'li yönetmen Baran bo Odar’ın üstlendiği filmin senaryosunda da yönetmen bo Odar ile birlikte Jantje Friese’ın imzası var. Siber suç geriliminin başrolünde Tom Schilling yer alırken, Schilling'e Elyas M'Barek, Wotan Wilke Möhring, Hannah Herzsprung ve Trine Dyrholm isimleri eşlik ediyor.",
+    "IMDB": "7.6",
+    "Vision": "2014",
+    "Type": ["Gerilim"],
+    "Time": "1s 41dk",
+    "Director": "Roman Polanski",
+    "Actors": ["Tom Schilling", "Elyas M'Barek", "Wotan Wilke Möhring"],
+    "Production": ["Almanya"],
+    "Fragman": "https://www.youtube.com/embed/4tK-kGnmYlA"
+  },
+
+  {
+    "id": 25,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk9R56ZFlofbBzfwBnHlDyg5DMs.jpg",
+    "Title": "Kayıp Aranıyor",
+    "Summary": "Film kaybolan kızını bulmak için bilgisayar üzerinden araştırmaya başlayan bir babanın yaşadıklarını konu ediyor. David Kim’in 16 yaşındaki kızı kaybolunca, yerel soruşturma açılıp davaya dedektif atanmıştır. Dedektiflerin araştırmaya başlamasından 37 saat sonra David kimsenin bakmadığı bir yeri araştırmaya karar verir. Bütün sırların saklandığı yer kızının bilgisayarıdır. Kızının bilgisayarı kurcalayan çaresiz baba, kızının kişisel dünyasına da giriş yapar. Bilmediği sırlarla karşılaşan adam, tamamen yok olmadan önce kızını bulmak için onun geride bıraktığı dijital ipuçlarını takip etmelidir...",
+    "IMDB": "7.6",
+    "Vision": "2018",
+    "Type": ["Gerilim", "Dram"],
+    "Time": "1s 42dk",
+    "Director": "Aneesh Chaganty",
+    "Actors": ["John Cho", "Debra Messing", "Michelle La"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/XO1s1_ES7RY"
+  },
+
+  {
+    "id": 26,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhigAje0Bf9YnSwJQ9zwXEAchOe.jpg",
+    "Title": "Paralel Evren",
+    "Summary": "Alışılagelmedik bir astronomik olayın meydana geleceği gece, sekiz arkadaş, doğa kanunlarına meydan okuyan, bir dizi sıkıntı verici olaya tanık olacaklardır. Bir yandan bilim kurgu bir yandan da insan ilişkileri üzerine olan bu yapım, konusuna iyice odaklanan, gizemle gerilime anında yoğunlaşan ve incelikle çekilmiş bir film.",
+    "IMDB": "7.2",
+    "Vision": "2013",
+    "Type": ["Bilim-Kurgu", "Gerilim"],
+    "Time": "1s 28dk",
+    "Director": "James Ward Byrkit",
+    "Actors": ["Nicholas Brendon", "Hugo Armstrong", "Emily Baldoni"],
+    "Production": ["ABD", "İngiltere"],
+    "Fragman": "https://www.youtube.com/embed/IotwfJzLQhY"
+  },
+
+  {
+    "id": 27,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tviZSW2sDyy782ies9fA5XrKG3d.jpg",
+    "Title": "Aslan Kral",
+    "Summary": "Aslan Kral, yavru bir aslan olan Simba’nın maceralarını konu ediyor. Ormanın kralı olan babası Mufasa'ya hayran bir yavru aslan olarak mutlu bir hayat süren Simba, sinsi amcası Scar'ın planlarından habersizdir. Kral olmak için fırsat kollayan Scar, Mufasa'yı öldürdükten sonra Simba için tehlike baş gösterir. Amcasının ihaneti ve babasının kaybı ile yıkılan Simba sürgüne gider. Zamanı geldiğinde hakkı olanı almak için geri dönecek ve amcasına yaptıklarının bedelini ödetecektir...",
+    "IMDB": "6.9",
+    "Vision": "2019",
+    "Type": ["Macera", "Animasyon", "Aile"],
+    "Time": "1s 58dk",
+    "Director": "Jon Favreau",
+    "Actors": ["Donald Glover", "Beyoncé Knowles-Carter", "James Earl Jones"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/LuMLefRfBj8"
+  },
+
+  {
+    "id": 28,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tf5c4gnddESiznfxDoqBezq3bo.jpg",
+    "Title": "Ölümcül Makineler",
+    "Summary": "Ölümcül Makineler, büyük bir yıkımın ardından kurulan yeni düzende hayatta kalmaya çalışan insanların hikayesini konu ediyor. Medeniyeti yok eden büyük felaketin ardından yıllar geçmiştir. Artık hiçbir şey eskisi gibi değildir. İnsanlar kendilerine yeni bir yaşam biçimi geliştirmiştir. Yeryüzünde hareket eden büyük şehirler, dünyada dolaşarak daha küçük olan kasabaları vahşice yağmalamaktadır. Tom Natsworthy, yürüyen büyük şehirlerden olan Londra’nın alt sınıfındandır. Tehlikeli kaçak Hester Shaw ile karşılaşan Tom Natsworthy artık hayatta kalmak için savaşmak zorundadır. Bu iki farklı insan hayatlarının değişmesine neden olan bir ittifak kurar. Yollarının kesişmesi beklenmedik olan bu ikilinin kurduğu ihtimal dışı ortaklık, dünyanın kaderini değiştirecektir.",
+    "IMDB": "6.1",
+    "Vision": "2018",
+    "Type": ["Macera", "Fantastik"],
+    "Time": "1s 58dk",
+    "Director": "Christian Rivers",
+    "Actors": ["Hera Hilmar", "Robert Sheehan", "Hugo Weaving"],
+    "Production": ["ABD", "Yeni Zelanda"],
+    "Fragman": "https://www.youtube.com/embed/JD06PoB0jbk"
+  },
+
+  {
+    "id": 29,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYL0ZUGW4dpXX6xgh9BGbHvWV9i.jpg",
+    "Title": "Hayat",
+    "Summary": "Hayat (Life), uluslararası bir uzay istasyonunda görevli altı kişinin, insanlık tarihinde çığır açacak bir keşfin eşiğindeki hikayesini anlatıyor. Görevli ekip, Mars gezegeninde ilk kez hayat olduğuna dair ip uçları bulur. Ekip araştırmalarını ilerlettikçe, metotları beklenmedik sonuçlar verir çünkü buldukları bu hayat formu kimsenin bekleyemeyeceği kadar zekidir.Film, bir grup astronotun Mars’ta bulunan canlılarla yaşadığı tehlikeli olayları konu ediniyor.",
+    "IMDB": "6.1",
+    "Vision": "2017",
+    "Type": ["Bilim-Kurgu", "Gerilim"],
+    "Time": "1s 44dk",
+    "Director": "Daniel Espinosa",
+    "Actors": ["Jake Gyllenhaal", "Ryan Reynolds", "Rebecca Ferguson"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/MeaakYSKtBg"
+  },
+
+  {
+    "id": 30,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hudZsb84xSRcJzYmZo6vOncDf2w.jpg",
+    "Title": "Alfa Kurt",
+    "Summary": "Buzul çağında zoraki bir dostluğun anlatıldığı Alfa Kurt hem gerecek hem de yürekleri eritecek. Günümüzden 20.000 yıl önce geçen bu hikayede, babasının kabilesinden ayrı düşen ve öldü sanılan bir gencin hikayesini izleyeceğiz. Sürüden ayrılmış kuzu misali savunmasız kalan bu genç adam hem hayatta kalmayı hem de dostluğun kıymetini bir kurttan öğrenecektir.",
+    "IMDB": "6.7",
+    "Vision": "2018",
+    "Type": ["Macera", "Dram"],
+    "Time": "1s 36dk",
+    "Director": "Albert Hughes",
+    "Actors": ["Kodi Smit-McPhee", "Jóhannes Haukur Jóhannesson", "Marcin Kowalczyk"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/WZE1JQK-tUc"
+  },
+
+  {
+    "id": 31,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ASpPDObe4Bodkaal9iokyEsnMY.jpg",
+    "Title": "Malefiz Serisi",
+    "Summary": "“Malefiz,” 1959 yılı Disney klasiği “Uyuyan Güzel”in en ikonik kötü karakterinin anlatılmamış hikâyesini anlatıyor. Peri olan Malefiz, insan krallığı ile sınırı olan Moors adında ki büyülü, barışçıl bir orman krallığında yaşamaktadır. Daha küçük bir kızken Stefan adında bir insana aşık olur. Ama büyüdüklerinde Stefan’ın ihaneti ile kalbi taşlaşmış, kindar bir periye dönüşen Malefiz, topraklarına savaş açan insanların kralının kızı Aurora’yı lanetler. Fakat Aurora büyüdükçe, Malefiz onun gerçek barışı sağlayacak yegane anahtar olduğunu fark edecektir.<p> Malefiz: Kötülüğün Gücü ; Kral Stefan’ın ölümünün üzerinden beş huzurlu yıl geçmiştir. Malefiz ve Aurora’nın acı ve intikamla başlayan ve nihayetinde sevgiye dönüşen ilişkileri gelişmiştir. Aurora ile Prens Phillip’in evlilik planları ölümlü Ulstead krallığı ile büyülü Moors krallığına sonsuza kadar huzur getirecektir. Ancak eskilere dayanan insanlar ve perileri arasındaki kin bu birleşmenin önünde büyük bir engel olacaktır. Beklenmeyen bir olay bu iki ırk arasındaki savaşı tekrardan alevlendirerek, Malefiz ve Aurora’nın bağlılıklarını test edecek ve gerçekten aile olup olmadıklarını sorgulatacaktır. </p>",
+    "IMDB": "7.0 - 6.6",
+    "Vision": "2014 - 2019",
+    "Type": ["Fantastik", "Aile", "Macera"],
+    "Time": "1s 37dk - 1s 59dk",
+    "Director": "Robert Stromberg - Joachim Rønning",
+    "Actors": ["Angelina Jolie", "Elle Fanning", "Harris Dickinson"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/CONw_ebgwCE"
+  },
+
+  {
+    "id": 32,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIssD3w3SvIhPPmVo4WMgZDVLID.jpg",
+    "Title": "Altıncı His",
+    "Summary": "Bir çocuk psikiyatrisi olan Dr. Crowe, yıllar önce bir saldırıya uğramış ve hayatı değişmiştir. Son ilgilendiği hastası, 6 yaşındaki bir erkek çocuğu olan Cole Sear'ın bir sırrı vardır. Çok az insana nasip olan bir yetenekle kutsanmış ya da lanetlenmiştir: ölmüş ama huzur bulamamış insanların etrafımızda dolaşan hayaletlerini görüp onlarla konuşmaktadır.Crowe, güçlerinin sınırlarını bilmediği ve anlayamadığı için korku içinde olan Cole'un yalnızca sırrını paylaşan tek kişi olmakla kalmayacak, aynı zamanda onunla birlikte cesur bir yolculuğa da çıkacaktır. İkisi de, içlerindeki boşluğu, yine kendi içlerine yapacakları bir yolculukta bulacakları şeylerle dolduracaklardır. Unutmamak gereken bir nokta daha olduğunu hatırlatmadan geçmeyelim: gerçekler, bulundukları zaman çok acıtabilirler...",
+    "IMDB": "8.1",
+    "Vision": "1999",
+    "Type": ["Fantastik", "Aile", "Macera"],
+    "Time": "1s 47dk",
+    "Director": "M. Night Shyamalan",
+    "Actors": ["Bruce Willis", "Haley Joel Osment", "Toni Collette"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/EOV1YzzyvYs"
+  },
+
+  {
+    "id": 33,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/170VKibfqMR1k0eaR2pIj830MgW.jpg",
+    "Title": "12 Maymun",
+    "Summary": "Ölümcül bir virüs tüm dünyayı tehdit etmektedir. 1996'da 5 milyar kişinin ölümüne neden olan bu virüs, 2035'te dünya nüfusunun yalnızca %1'ini hayatta bırakmıştır. Bu virüsün etkilerinden korunabilmek için insanlar yer altında koloniler kurarak yaşamaya başlar.Bu virüsün üstesinden gelebilmek için mahkumlardan James Cole, zaman makinesiyle geçmişe gönderilir. Yanlışlıkla 1990 yılına gönderilen Cole, bilimadamları için virüs hakkında araştırma yapar.Daha sonra zaman yolculuğunu sürdüren Cole, 1996'da akıl hastanesine alınır. Burada Dr. Kathryn Railly ile tanışan Cole, onu içinde bulundukları duruma inandırmaya başlar.",
+    "IMDB": "8.0",
+    "Vision": "1995",
+    "Type": ["Dram", "Bilim-Kurgu", "Gerilim"],
+    "Time": "2s 10dk",
+    "Director": "Terry Gilliam",
+    "Actors": ["Bruce Willis", "Madeleine Stowe", "Christopher Plummer"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/15s4Y9ffW_o"
+  },
+
+  {
+    "id": 34,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2aLn2S6wVfefbYf6ZXLTQSJvMk.jpg",
+    "Title": "12 Yıllık Esaret",
+    "Summary": "1841'de New York'ta yaşayan Solomon Northup, kendisini müziğe adamış siyahi bir adamdır. Ailesiyle birlikte yaşayan Solomon, özgür yaşayan ve istediği şeyleri yapabildiği için mutlu bir adamdır. Fakat bir gün bir müzik işi için 2 adam ile tanışır ve çalışmak için Washington'a gider. İnandığı medeni dünya alt üst olur çünkü kendisini kaçırıp Güney'de bir çiflikte köle olarak çalışması için satarlar. Özgürlüğünü korumak için verdiği tüm emekler ve mücadele yerle bir olmuş, hayatı kabusa dönmüştür. Bu cehennemde Solomon acıyı, şiddeti, küçük düşürülmeyi yeniden öğrenecek ve isyan etmeye cesareti olmayan br grup insanın umutsuzluğuna şahit olacaktır. Sevdiklerini ve hayatını geri almak için ne yapması gerektiğini kesinlikle bulmuştur...",
+    "IMDB": "8.1",
+    "Vision": "2013",
+    "Type": ["Dram", "Tarihi"],
+    "Time": "2s 13dk",
+    "Director": "Steve McQueen",
+    "Actors": ["Chiwetel Ejiofor", "Michael Fassbender", "Benedict Cumberbatch"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/MCBtgwM-baw"
+  },
+
+  {
+    "id": 35,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEgHtRUiX52MSQCXwQcDzw42pSJ.jpg",
+    "Title": "Can Dostum",
+    "Summary": "Zengin bir iş adamı ve aristokrat olan Philippe (François Cluzet), yamaç paraşütü yaparken geçirdiği kaza sonrası felç olur ve boynundan aşağısını kullanamaz hale gelir. Driss (Omar Sy) ise hapishaneden henüz yeni çıkmış bir işsizdir. Philippe 7 gün 24 saat boyunca bakımını üstlenmesi için Driss'i evine yatılı yardımcı olarak alınca ikisinin de dünyası değişecektir. Normal şartlar altında hiçbir zaman yan yana gelmeyecek bu ikili iyisiyle kötüsüyle hayatın tadını beraber çıkarmaya başlarlar.",
+    "IMDB": "8.5",
+    "Vision": "2011",
+    "Type": ["Dram", "Komedi"],
+    "Time": "1s 52dk",
+    "Director": "Eric Toledano, Olivier Nakache",
+    "Actors": ["François Cluzet", "Omar Sy", "Anne Le Ny"],
+    "Production": ["Fransa"],
+    "Fragman": "https://www.youtube.com/embed/MWys2hHWuAI"
+  },
+
+  {
+    "id": 36,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAStXq4ncbLBnujd3LG4KDd7Z3a.jpg",
+    "Title": "Sanal Hayatlar",
+    "Summary": "Hayatı olmadığınız yerlerde de yaşamanın sonuçları nelerdir? İnternetin bize sağladığı özgürlük müdür, tutsaklık mı? Henry-Alex Rubin´in bu ilk uzun metrajlı kurmaca filmi, sinsice iç içe geçen bir dizi sürükleyici öykü eşliğinde internetin günlük hayatımıza etkisini anlatıyor ve bizi unutulmayacak karakterlerle tanıştırıyor: kimlik hırsızlığı kurbanı gergin çift, sanal zorbalık yapan oğluyla uğraşan eski polis, oğulları intihara kalkışan sevgi dolu anne-baba, yetişkin sitelerde internet kamerası hep açık hırslı TV muhabiri... İlk gösterimi Venedik Film Festivali´nde yapılan Disconnect, 'Defolu ve insan olmaya dair bir aşk mektubu.' Rubin, 2005 yapımı, tekerlekli sandalye rugby´si konulu belgesel Murderball´un da yönetmeni...",
+    "IMDB": "7.5",
+    "Vision": "2012",
+    "Type": ["Dram", "Gerilim"],
+    "Time": "1s 55dk",
+    "Director": "Henry Alex Rubin",
+    "Actors": ["Jason Bateman", "Hope Davis", "Frank Grillo"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/RMWA4i-Lmu4"
+  },
+
+  {
+    "id": 37,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/weiMWhPoxMdGu89zE0UDbzQhCF.jpg",
+    "Title": "Ex Machina",
+    "Summary": "Caleb, dünyanın önde gelen internet şirketlerinden birinde çalışan bir yazılımcıdır. Günün birinde şirket içi bir yarışmayı kazanır. Ödül olarak ise şirketin herkesten uzak, dağlarda yalnız yaşayan CEO'su Nathan'ın orman içindeki evine bir hafta misafir olacaktır. Ancak Caleb'in bilmediği bir şey daha vardır: Bu misafirlik sırasında dünyanın ilk tamamlanmış yapay zekalı robotu olan Ava ile (Alicia Vikander) ilişki kurma deneyine katılması gerekecektir * Film, Turing Testinde bir makinenin düşündüğünü söylemenin mantıksal olarak mümkün olup olmadığının karşılıklı sohbetle tespit edilmesine dayanıyor.",
+    "IMDB": "7.7",
+    "Vision": "2015",
+    "Type": ["Dram", "Bilim-Kurgu"],
+    "Time": "1s 48dk",
+    "Director": "Alex Garland",
+    "Actors": ["Domhnall Gleeson", "Alicia Vikander", "Oscar Isaac"],
+    "Production": ["İngiltere", "ABD"],
+    "Fragman": "https://www.youtube.com/embed/n0wNwiU5iwc"
+  },
+
+  {
+    "id": 38,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pURJZgUK67IrVNtYzfat2FZLICf.jpg",
+    "Title": "Geliş",
+    "Summary": "Film, ordu dilbilimcisi Dr. Louise Banks'in hikayesini anlatıyor. Birden çok uzay gemisi dünyaya iniş yapınca dünya adeta sarsılır. Amaçlarının ne olduğu bilinmeyen uzaylılarla iletişim kurmanın yolları aranmaya başlar. Uzaylılarla iletişim kurması için ordu dilbilimcisi Dr. Louise Banks (Amy Adams) çağrılır. Doktora yardımcı olması için de fizikçi Ian Donnelly (Jeremy Renner) seçilir. İkilinin artık en önemli görevi uzaylıların barışçıl mı yoksa istilacı mı olduğunu belirleyebilmektir. Bu süreçte bir diğer zorluk da ordunun ısrarcı bir şekilde saldırı yanlısı olması olacaktır.",
+    "IMDB": "7.9",
+    "Vision": "2016",
+    "Type": ["Dram", "Bilim-Kurgu", "Gizem"],
+    "Time": "1s 56dk",
+    "Director": "Denis Villeneuve",
+    "Actors": ["Amy Adams", "Jeremy Renner", "Forest Whitaker"],
+    "Production": ["ABD"],
+    "Fragman": "https://www.youtube.com/embed/XDLRUpqXM-Q"
+  },
+
+  {
+    "id": 39,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRn3TJHbAqCAO6U8Dw5DayVUuX3.jpg",
+    "Title": "Gladyatör",
+    "Summary": "Roma İmparatorluğu'na en parlak dönemi yaşatan General Maximus, girdiği bir meydan savaşından daha zaferle çıkar, artık tek hayali bir an önce evine dönerek karısı ve ailesine kavuşmaktır. <br>Fakat, zamanın Roma İmparatoru Marcus Aurelius, Maximus'a önemli bir görev verir ve iktidara sahip çıkmasını ister. Bunun üzerine imparatorun oğlu olan Commodus, iktidarın elinden alınacağını anlayınca general ve ailesini öldürme emri verir. Maximus ölümden zor kurtulur ve gladyatörler arenasına sürgün edilir. Yıllar sonra Roma'ya geri dönen güçlü gladyatör Maximus'un tek amacı Commodus'u öldürerek karısı ve oğlunun katledilmesinin intikamını almaktır.",
+    "IMDB": "8.5",
+    "Vision": "2000",
+    "Type": ["Aksiyon", "Dram", "Macera"],
+    "Time": "2s 35dk",
+    "Director": "Ridley Scott",
+    "Actors": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+    "Production": ["ABD", "İngiltere"],
+    "Fragman": "https://www.youtube.com/embed/WPHsJEPVCQ0"
+  },
+
+  {
+    "id": 40,
+    "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+    "Title": "Fury",
+    "Summary": "Fury, 1945 yılının Nisan ayında, İkinci Dünya Savaşı'nın son günlerinde geçiyor ve Komutan Wardaddy, topçu Boyd Swan, yükleyici Grady Travis, şoför Trini Garcia ve yardımcı şoför Norman'dan oluşan müfrezenin, 300 düşman askeriyle karşılaştığı ve tüm imkansızlıklarla savaşmak zorunda kaldığı 24 saati konu alıyor. Beş askerden oluşan küçük ekip, zırhlı tanklarıyla, Almanya'da savaşın ortasında kalır ve bu ekip bölgede kalan son Amerikan ordusu askerlerinden oluşur. Birlik az sayıda askerden oluşmasının yanı sıra cephane anlamında da bir hayli zor durumdadır. Gruba komuta eden Çavuş Wardaddy'nin Avrupa'nın tamamını yıkıma uğratan bu savaştaki son görevi, askerlerini Nazi birliklerinin kuşatması altında olan bu bölgeden sağ salim çıkarabilmektir.",
+    "IMDB": "7.6",
+    "Vision": "2014",
+    "Type": ["Savaş", "Dram", "Aksiyon"],
+    "Time": "2s 14dk",
+    "Director": "David Ayer",
+    "Actors": ["Brad Pitt", "Shia LaBeouf", "Logan Lerman"],
+    "Production": ["ABD", "İngiltere", "Çin"],
+    "Fragman": "https://www.youtube.com/embed/NjWTkXaWD9Y"
+  }
+
+
+ 
+
+
+]
+
+

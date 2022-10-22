@@ -1,0 +1,92 @@
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) {  }
+
+
+
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { 
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon .bilgi {
+        font-size: 14px;
+    }
+ }
+
+ // Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { 
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon .bilgi {
+        font-size: 16px;
+    }
+
+    .rastgeleFilmGetir {
+        padding: 75px 0 90px;
+    }
+
+    .filmBilgileri {
+        margin-top: 15px;
+    }
+ }
+
+
+ // Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { 
+
+    .rastgeleFilmGetir {
+        padding: 50px 0 65px;
+    }
+
+    .listedekiFilmler {
+        padding: 50px 0;
+    }
+
+
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon {
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon .bilgi:nth-child(1),
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon .bilgi:nth-child(2)
+     {
+        margin-bottom: 7.5px;
+    }
+
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon .bilgi:nth-child(2),
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon .bilgi:nth-child(4)
+     {
+        margin-right: 0px;
+    }
+
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon .bilgi {
+        text-align: center;
+    }
+
+  }
+
+  @media (max-width: 475px) {  
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon {
+        display: grid;
+        grid-template-columns:100%;
+    }
+
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon .bilgi:nth-child(2),
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon .bilgi:nth-child(4)
+     {
+        margin-left: 0px;
+    }
+
+   
+    .rastgeleFilmGetir .filmBilgileri .filmPuanVizyon .bilgi:nth-child(3)
+     {
+        margin-bottom: 7.5px;
+    }
+
+  }
+ 
+
+  @media (max-width: 425px) {  
+    .listedekiFilmAdlari {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+  }
